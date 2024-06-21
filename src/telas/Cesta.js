@@ -19,7 +19,7 @@ export default function Cesta() {
         </View>
         <Text style={estilos.descricao}>
             Uma cesta com produtos selecionados com 
-            excelente qualidade, colhidos por Mose Schrute.
+            excelente qualidade, colhidos por Mose Schrute. 
         </Text>
         <Text style={estilos.preco}>R$ 40,00</Text>
     </View>
@@ -49,7 +49,7 @@ const estilos = StyleSheet.create({
         fontSize: 26,
         lineHeight:42,
         color: "#464646",
-        fontWeight: "bold"
+        fontFamily: "MontserratBold",
     },
     fazenda: {
         flexDirection: "row", //é o que faz o view ficar como colunas e rows
@@ -63,6 +63,7 @@ const estilos = StyleSheet.create({
         fontSize: 16,
         lineHeight: 26,
         marginLeft: 12,
+        fontFamily: "MontserratRegular"
     },
     descricao: {
         color: "#A3A3A3",
