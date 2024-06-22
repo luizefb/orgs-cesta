@@ -1,5 +1,4 @@
 # Projeto usando React Native
 Projeto desenvolvido a partir de um curso de React Native
 
-<img src="![WhatsAppVideo2024-06-21at22 02 48-ezgif com-crop](https://github.com/luizefb/orgs-cesta/assets/123416510/a4f2b4cb-0025-409c-b6ac-fec88f44f27d)
-" width="350" />
+![WhatsAppVideo2024-06-21at22 02 48-ezgif com-crop](https://github.com/luizefb/orgs-cesta/assets/123416510/019b549f-b216-45ff-ba95-c75b4b12945f)
